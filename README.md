@@ -1,7 +1,6 @@
 # **Citi Bike Analytics**
 
-In this assignment, the objective is to:
-*  analyze the bikes usage for New York City for the year 2019.
+In this assignment, the objective is to analyze the bikes usage for New York City for the year 2019.
 
 <p align="center">
   <img src="citibike.jpg">
@@ -32,7 +31,7 @@ The following key will be required:
 The assumption here is that your computer is running on Windows 10.
 Feel free to adjust if you are using a Mac OS or any other operating system.
 
-What things you need to install the software and how to install them:
+What software do you need and how to install them?
 
 * Anaconda
 * Python, with module named: 
@@ -64,7 +63,7 @@ The data used as input is coming from the following sources:
 
 ### **Step 1: The code is located here**
 The code is available as follows:
-* Part 1: [this code](02-Analysis/02_Pre_Tableau.ipynb)
+* Part 1: [Code](02-Analysis/02_Pre_Tableau.ipynb)
 * Part 2: [Tableau](https://public.tableau.com/profile/latyr#!/vizhome/TableauHomework_15950296476620/StartEndStationsAnalysis?publish=yes) 
 
 
